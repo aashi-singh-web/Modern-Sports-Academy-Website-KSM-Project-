@@ -3,7 +3,7 @@
 **Tech Stack:**  
 HTML5 · CSS3 · JavaScript (ES6+) · React.js · Node.js · Express.js · MongoDB · Tailwind CSS
 
-[![Demo Preview](https://github.com/user-attachments/assets/b889ceb6-38d5-42e4-9c5c-6799e823b699)](https://github.com/user-attachments/assets/b889ceb6-38d5-42e4-9c5c-6799e823b699)
+[🔗 Live Demo](https://github.com/user-attachments/assets/b889ceb6-38d5-42e4-9c5c-6799e823b699)
 
 
 
